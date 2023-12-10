@@ -1,6 +1,5 @@
 # Diamond-Price-Prediction-Using-ML
 
-Project Title: Diamond Price Prediction Using Machine Learning
 
 Project Description:
 The "Diamond Price Prediction using Machine Learning" project is an innovative endeavor that leverages advanced data analysis techniques to forecast diamond prices based on various intrinsic characteristics. The features considered in this analysis include carat weight, cut quality, color grade, clarity, depth percentage, table percentage, and geometric dimensions (x, y, z).
