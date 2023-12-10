@@ -8,4 +8,3 @@ This project seeks to develop a predictive model that can accurately estimate di
 
 The predictive model takes into account the multifaceted nature of diamond attributes, enabling users to make informed decisions when buying or selling diamonds. This project not only contributes to the understanding of the factors influencing diamond prices but also offers a practical application of machine learning in the realm of gem valuation.
 
-Through the "Diamond Price Prediction using Machine Learning" project, we aim to provide a valuable resource for jewellers, consumers, and industry professionals seeking accurate and data-driven insights into the pricing dynamics of diamonds.
